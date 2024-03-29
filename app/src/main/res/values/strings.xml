@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Meal Rater</string>
+    <string name="rating">Rating:</string>
+    <string name="enter_dish_name">Enter Dish Name</string>
+    <string name="rate_meal">RATE MEAL</string>
+    <string name="textview">textView</string>
+    <string name="restaurant">Restaurant:</string>
+    <string name="dish">Dish:</string>
+    <string name="enter_resturant_name">Enter Resturant Name</string>
+    <string name="rate_the_meal_1_5">Rate the Meal (1-5)</string>
+    <string name="save">SAVE</string>
 
 </resources>
